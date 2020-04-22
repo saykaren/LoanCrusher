@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LoanCrusher/static/css/main.a603c953.chunk.css",
+    "main.js": "/LoanCrusher/static/js/main.dbd720d8.chunk.js",
+    "main.js.map": "/LoanCrusher/static/js/main.dbd720d8.chunk.js.map",
+    "runtime-main.js": "/LoanCrusher/static/js/runtime-main.b30f6dbf.js",
+    "runtime-main.js.map": "/LoanCrusher/static/js/runtime-main.b30f6dbf.js.map",
+    "static/js/2.16523648.chunk.js": "/LoanCrusher/static/js/2.16523648.chunk.js",
+    "static/js/2.16523648.chunk.js.map": "/LoanCrusher/static/js/2.16523648.chunk.js.map",
+    "index.html": "/LoanCrusher/index.html",
+    "precache-manifest.4bb055c7517dd8a157c496aad7c58e2e.js": "/LoanCrusher/precache-manifest.4bb055c7517dd8a157c496aad7c58e2e.js",
+    "service-worker.js": "/LoanCrusher/service-worker.js",
+    "static/css/main.a603c953.chunk.css.map": "/LoanCrusher/static/css/main.a603c953.chunk.css.map",
+    "static/js/2.16523648.chunk.js.LICENSE.txt": "/LoanCrusher/static/js/2.16523648.chunk.js.LICENSE.txt",
+    "static/media/sayKaren_logo-white_8.1.2019.png": "/LoanCrusher/static/media/sayKaren_logo-white_8.1.2019.d0827d01.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b30f6dbf.js",
+    "static/js/2.16523648.chunk.js",
+    "static/css/main.a603c953.chunk.css",
+    "static/js/main.dbd720d8.chunk.js"
+  ]
+}
