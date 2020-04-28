@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/LoanCrusher/static/css/main.1619a11e.chunk.css",
-    "main.js": "/LoanCrusher/static/js/main.a2b7b94c.chunk.js",
-    "main.js.map": "/LoanCrusher/static/js/main.a2b7b94c.chunk.js.map",
+    "main.js": "/LoanCrusher/static/js/main.b8469c40.chunk.js",
+    "main.js.map": "/LoanCrusher/static/js/main.b8469c40.chunk.js.map",
     "runtime-main.js": "/LoanCrusher/static/js/runtime-main.b30f6dbf.js",
     "runtime-main.js.map": "/LoanCrusher/static/js/runtime-main.b30f6dbf.js.map",
     "static/js/2.16523648.chunk.js": "/LoanCrusher/static/js/2.16523648.chunk.js",
     "static/js/2.16523648.chunk.js.map": "/LoanCrusher/static/js/2.16523648.chunk.js.map",
     "index.html": "/LoanCrusher/index.html",
-    "precache-manifest.9cedd0201993c1a27285a9626de7b2c8.js": "/LoanCrusher/precache-manifest.9cedd0201993c1a27285a9626de7b2c8.js",
+    "precache-manifest.a5403a48c7a729cbbc3cfc3cb6364790.js": "/LoanCrusher/precache-manifest.a5403a48c7a729cbbc3cfc3cb6364790.js",
     "service-worker.js": "/LoanCrusher/service-worker.js",
     "static/css/main.1619a11e.chunk.css.map": "/LoanCrusher/static/css/main.1619a11e.chunk.css.map",
     "static/js/2.16523648.chunk.js.LICENSE.txt": "/LoanCrusher/static/js/2.16523648.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.b30f6dbf.js",
     "static/js/2.16523648.chunk.js",
     "static/css/main.1619a11e.chunk.css",
-    "static/js/main.a2b7b94c.chunk.js"
+    "static/js/main.b8469c40.chunk.js"
   ]
 }
