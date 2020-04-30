@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fd6c70f8a3f9efd2fb30b65415d1653",
+    "revision": "3e4d4ea21f55a4bd816bee3407fecfaf",
     "url": "/LoanCrusher/index.html"
   },
   {
-    "revision": "3a000a64b8e64df1c72e",
-    "url": "/LoanCrusher/static/css/main.5da0f8bd.chunk.css"
+    "revision": "b8f9627899299e4ed3d5",
+    "url": "/LoanCrusher/static/css/main.293d6136.chunk.css"
   },
   {
     "revision": "0a09ed9988bbe3f9ff51",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LoanCrusher/static/js/2.16523648.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a000a64b8e64df1c72e",
-    "url": "/LoanCrusher/static/js/main.7e7f9986.chunk.js"
+    "revision": "b8f9627899299e4ed3d5",
+    "url": "/LoanCrusher/static/js/main.1851afb7.chunk.js"
   },
   {
     "revision": "2109cdde0cf56bcdbc97",
