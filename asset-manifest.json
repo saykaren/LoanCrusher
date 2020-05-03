@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/LoanCrusher/static/css/main.96b81154.chunk.css",
-    "main.js": "/LoanCrusher/static/js/main.d96f1cd0.chunk.js",
-    "main.js.map": "/LoanCrusher/static/js/main.d96f1cd0.chunk.js.map",
+    "main.css": "/LoanCrusher/static/css/main.9221229e.chunk.css",
+    "main.js": "/LoanCrusher/static/js/main.8fe3b18d.chunk.js",
+    "main.js.map": "/LoanCrusher/static/js/main.8fe3b18d.chunk.js.map",
     "runtime-main.js": "/LoanCrusher/static/js/runtime-main.b30f6dbf.js",
     "runtime-main.js.map": "/LoanCrusher/static/js/runtime-main.b30f6dbf.js.map",
     "static/js/2.16523648.chunk.js": "/LoanCrusher/static/js/2.16523648.chunk.js",
     "static/js/2.16523648.chunk.js.map": "/LoanCrusher/static/js/2.16523648.chunk.js.map",
     "index.html": "/LoanCrusher/index.html",
-    "precache-manifest.8066176967a226e1486941578765f92e.js": "/LoanCrusher/precache-manifest.8066176967a226e1486941578765f92e.js",
+    "precache-manifest.6ce1924d2341b86939974a7bbe5b95b5.js": "/LoanCrusher/precache-manifest.6ce1924d2341b86939974a7bbe5b95b5.js",
     "service-worker.js": "/LoanCrusher/service-worker.js",
-    "static/css/main.96b81154.chunk.css.map": "/LoanCrusher/static/css/main.96b81154.chunk.css.map",
+    "static/css/main.9221229e.chunk.css.map": "/LoanCrusher/static/css/main.9221229e.chunk.css.map",
     "static/js/2.16523648.chunk.js.LICENSE.txt": "/LoanCrusher/static/js/2.16523648.chunk.js.LICENSE.txt",
     "static/media/sayKaren_logo-white_8.1.2019.png": "/LoanCrusher/static/media/sayKaren_logo-white_8.1.2019.d0827d01.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b30f6dbf.js",
     "static/js/2.16523648.chunk.js",
-    "static/css/main.96b81154.chunk.css",
-    "static/js/main.d96f1cd0.chunk.js"
+    "static/css/main.9221229e.chunk.css",
+    "static/js/main.8fe3b18d.chunk.js"
   ]
 }
